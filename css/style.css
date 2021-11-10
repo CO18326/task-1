@@ -1,0 +1,48 @@
+.navbar-custom {
+    background-color: #6f42c1;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+
+.nav-padd{
+    padding: 0px 0px 0px 90px;
+}
+
+.masthead-followup-icon{
+border-radius: 12px;
+
+  
+  
+}
+
+.padd{
+    padding:0px 0px 0px 500px;
+    
+}
+
+.c{
+    height:auto;
+}
+.chroma .language-sh::before {
+    color: #009;
+    content: "$ ";
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.na{
+    color:blue;
+}
+
+.s{
+    color:red;
+}
