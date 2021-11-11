@@ -3,11 +3,12 @@
 }
 
 .navbar-custom .navbar-nav .nav-link {
-    color: rgba(255,255,255,.5);
+    color: rgba(255,255,255,.85);
 }
 
 .navbar-custom .nav-item.active .nav-link,
-.navbar-custom .nav-item:hover .nav-link {
+.navbar-custom .nav-item:hover .nav-link,
+.navbar-brand {
     color: #ffffff;
 }
 
@@ -16,7 +17,7 @@
     padding: 0px 0px 0px 90px;
 }
 
-.masthead-followup-icon{
+.followup-icon{
 border-radius: 12px;
 
   
