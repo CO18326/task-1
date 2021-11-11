@@ -31,7 +31,7 @@ border-radius: 12px;
 .c{
     height:auto;
 }
-.chroma .language-sh::before {
+.language-sh::before {
     color: #009;
     content: "$ ";
     -webkit-user-select: none;
@@ -45,4 +45,8 @@ border-radius: 12px;
 
 .s{
     color:red;
+}
+
+.bd-footer{
+    background-color: gray;
 }
